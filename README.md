@@ -54,4 +54,5 @@ Output Control: focus on..., avoid..., emphasize..., use only...
 
 https://youtu.be/sGvXO7CVwc0?si=Fdw0Q9-6QcsqJ0mZ
 
+![image](https://github.com/user-attachments/assets/b62fd33a-c241-4941-9a67-0dab7d0d2ba0)
 
