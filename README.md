@@ -49,4 +49,9 @@ AI Behavior Modifiers
 Output Type: list, story, analysis, argument, explanation
 Constraints: no jargon, simplified language, technical terms allowed, use analogies
 Output Control: focus on..., avoid..., emphasize..., use only...
-   
+
+## RAG
+
+https://youtu.be/sGvXO7CVwc0?si=Fdw0Q9-6QcsqJ0mZ
+
+
